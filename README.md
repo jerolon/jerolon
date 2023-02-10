@@ -1,11 +1,17 @@
-### Hi there 👋
+### Hi there 👋 My name is Jeronimo Miranda. I am a bioinformatician, data analyst and scientist interested in most things having to do with genomics, microscopy and cell biology and all technologies that can help us get better health.
 
+
+- 🔭 I’m currently working on ...
+
+[![Image by Joe Girgente licensed under http://creativecommons.org/licenses/by-nc/4.0/](cacomixtle.jpg)](https://github.com/jerolon/distribucion_de_cacomixtles)
+
+
+[Species Geographic Distribution Data](https://github.com/jerolon/distribucion_de_cacomixtles)
 <!--
 **jerolon/jerolon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
